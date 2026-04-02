@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f6f9;
+    }
+
+    .sidebar {
+      width: 220px;
+      height: 100vh;
+      background: #1f2937;
+      color: white;
+      position: fixed;
+      padding: 20px;
+    }
+
+    .main {
+      margin-left: 240px;
+      padding: 20px;
+    }
+
+    .card {
+      background: white;
+      padding: 20px;
+      margin: 10px 0;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    a {
+      color: white;
+      display: block;
+      margin: 10px 0;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="sidebar">
+    <h2>My Dashboard</h2>
+    <a href="#">Home</a>
+    <a href="#">Analytics</a>
+    <a href="#">Projects</a>
+    <a href="#">Settings</a>
+  </div>
+
+  <div class="main">
+    <h1>Welcome 👋</h1>
+
+    <div class="card">
+      <h3>Stats</h3>
+      <p>Projects: 5</p>
+    </div>
+
+    <div class="card">
+      <h3>Activity</h3>
+      <p>Your dashboard is live 🚀</p>
+    </div>
+  </div>
+
+</body>
+</html>
