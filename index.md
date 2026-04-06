@@ -2,7 +2,7 @@
 ---
 ## Natural Language Processing
 
-### Natural Language Processing with Deep Learning
+### Classrooms allocation with Deep Learning
 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
@@ -24,7 +24,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Detect Ai by security auditor, LLM models
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
@@ -44,6 +44,9 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 <center><img src="images/detect-spam-nlp.png"/></center>
 <br>
+
+## Data Engineering
+<div style="text-align: justify">FROM start to end, I have integrate IOT technologies to detect troubleshooting purpose by centralizing big data integreate with the modeling deloy through platform. Finally, we maintain the stucture of big data and improving all business </div>
 
 ---
 ## Data Science
@@ -82,7 +85,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
+### Business Analytics Conference shopee 2018: How is ecommerce campaign sel prediction?s
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
@@ -92,7 +95,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-## Filmed by me
+## Contented by me
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
 
