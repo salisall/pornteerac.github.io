@@ -15,27 +15,18 @@ My complete implementation of assignments and projects in
 <center><img src="images/nlp.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
-
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
-
-<center><img src="images/BERT-classification.png"/></center>
-
----
 ### Detect Ai by security auditor, LLM models
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/ai_security_auditor)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">First I build This project investigates how psychological manipulation can be used to trigger prompt injection attacks in AI systems, filling a critical gap where no standardized risk framework currently exists. By utilizing an Agile and DevSecOpsmethodology, the team is developing a structured Risk Map and a Jupyter Notebook-based prototype to visually represent and quantify these vulnerabilities. The implementation includes an automated test suite with over seven test cases for models like Gemma 3 and Llama 3.1, alongside a JSON database of mitigation strategies to help organizations secure their AI workflows. Led by a team of six Data Science students and supervised by experts from CSIRO’s Data61, the project aims to deliver actionable security insights and a functional risk assessment dashboard by October 2025.</div>
 <br>
 <center><img src="images/fb-food-trends.png"></center>
 <br>
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+### Detect criminal: Pythorch
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
@@ -44,6 +35,7 @@ My complete implementation of assignments and projects in
 <br>
 <center><img src="images/detect-spam-nlp.png"/></center>
 <br>
+
 
 ## Data Engineering
 <div style="text-align: justify">FROM start to end, I have integrate IOT technologies to detect troubleshooting purpose by centralizing big data integreate with the modeling deloy through platform. Finally, we maintain the stucture of big data and improving all business </div>
@@ -55,7 +47,7 @@ My complete implementation of assignments and projects in
 
 [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/RateCardProject)
 
 <div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
 <br>
@@ -74,7 +66,7 @@ My complete implementation of assignments and projects in
 <br>
 
 ---
-### Predict Breast Cancer with RF, PCA and SVM using Python
+### Predict Athlethe Performance by utralytrics
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
@@ -85,7 +77,7 @@ My complete implementation of assignments and projects in
 <br>
 
 ---
-### Business Analytics Conference shopee 2018: How is ecommerce campaign sel prediction?s
+### Business Analytics Conference shopee 2018: How is ecommerce campaign sell predictions
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
@@ -97,15 +89,13 @@ My complete implementation of assignments and projects in
 ---
 ## Contented by me
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/@sallynet-f1b)
 
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+<div style="text-align: justify">Besides Data Science, I also have a great passion for content creation. Below is a list of technology and lystlye content,  documented to retain beautiful passion intregrate to my lifestlye and amazing people, environment, interest I met on the way.</div>
 <br>
 
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
+- [In Australia, Melbourne - Study with me](https://www.youtube.com/watch?v=TcPSuanD7Hc&t=15s)
+
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2026 Sally. Powered by Jekyll and the Minimal Theme.</center>
