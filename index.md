@@ -6,7 +6,7 @@
 
 My complete implementation of assignments and projects in 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/Classroom_alocation)
 
 **Neural formular structure :** An GNN system which for the target relationship,This AI-powered system optimizes student classroom assignments by modeling social and academic dynamics through Graph Neural Networks (GNN) and Reinforcement Learning (RL). By treating students as nodes in a social graph, the system captures complex relationships—such as friendships and conflicts—to create balanced learning environments that traditional clustering methods often miss. Built with a FastAPI and React stack, it features an interactive dashboard for visualizing student networks and allows for real-time manual adjustments, ultimately automating the creation of classrooms that are both academically diverse and socially supportive. ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
