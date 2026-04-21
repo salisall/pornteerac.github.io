@@ -17,8 +17,8 @@ My complete implementation of assignments and projects in
 ---
 ### Detect Ai by security auditor, LLM models
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)]
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/ai_security_auditor)]
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/ai_security_auditor)
 
 <div style="text-align: justify">First I build This project investigates how psychological manipulation can be used to trigger prompt injection attacks in AI systems, filling a critical gap where no standardized risk framework currently exists. By utilizing an Agile and DevSecOpsmethodology, the team is developing a structured Risk Map and a Jupyter Notebook-based prototype to visually represent and quantify these vulnerabilities. The implementation includes an automated test suite with over seven test cases for models like Gemma 3 and Llama 3.1, alongside a JSON database of mitigation strategies to help organizations secure their AI workflows. Led by a team of six Data Science students and supervised by experts from CSIRO’s Data61, the project aims to deliver actionable security insights and a functional risk assessment dashboard by October 2025.</div>
 <br>
@@ -40,7 +40,8 @@ My complete implementation of assignments and projects in
 ## Data Engineering
 ### IOT web app
 [![Open Web App](https://salisall.github.io/RateCardProject/dashboard.html)]
-[![View on GitHub](https://github.com/salisall/RateCardProject)]
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/RateCardProject)
+
 <div style="text-align: justify">FROM start to end, I have integrate IOT technologies to detect troubleshooting purpose by centralizing big data integreate with the modeling deloy through platform. Finally, we maintain the stucture of big data and improving all business </div>
 
 ---
@@ -48,8 +49,8 @@ My complete implementation of assignments and projects in
 
 ### Face Mesh Web App
 
-[![Open Web App](https://salisall.github.io/FeshMesh.github.io/)
-[![View on GitHub](https://github.com/salisall/FeshMesh.github.io)
+[![Open Web App](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://salisall.github.io/FeshMesh.github.io/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/FeshMesh.github.io)
 
 <div style="text-align: justify">AAn interactive web-based application that performs real-time facial landmark detection and hand tracking directly in the browser. The system uses computer vision and machine learning to map detailed facial features and hand movements, enabling gesture-based interaction and intelligent visual analysis.</div>
 <br>
