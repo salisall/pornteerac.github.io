@@ -12,7 +12,7 @@ My complete implementation of assignments and projects in
 
 **Dependency Parsing:** A group allocation system base on GNN ([GitHub](https://github.com/salisall/Classroom_alocation)).
 
-<!--<center><img src="images/nlp.png"/></center>-->
+<center><img src="images/nlp.png"/></center>
 
 ---
 ### Detect Ai by security auditor, LLM models
@@ -54,7 +54,7 @@ My complete implementation of assignments and projects in
 
 <div style="text-align: justify">An interactive web-based application that performs real-time facial landmark detection and hand tracking directly in the browser. The system uses computer vision and machine learning to map detailed facial features and hand movements, enabling gesture-based interaction and intelligent visual analysis.</div>
 <br>
-<!--<center><img src="images/credit-risk-webapp.png"/></center>-->
+<center><img src="images/credit-risk-webapp.png"/></center>
 <br>
 
 ---
