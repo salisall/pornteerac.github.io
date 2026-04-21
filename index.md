@@ -12,7 +12,7 @@ My complete implementation of assignments and projects in
 
 **Dependency Parsing:** A group allocation system base on GNN ([GitHub](https://github.com/salisall/Classroom_alocation)).
 
-<center><img src="images/nlp.png"/></center>
+<!--<center><img src="images/nlp.png"/></center>-->
 
 ---
 ### Detect Ai by security auditor, LLM models
@@ -22,7 +22,7 @@ My complete implementation of assignments and projects in
 
 <div style="text-align: justify">First I build This project investigates how psychological manipulation can be used to trigger prompt injection attacks in AI systems, filling a critical gap where no standardized risk framework currently exists. By utilizing an Agile and DevSecOpsmethodology, the team is developing a structured Risk Map and a Jupyter Notebook-based prototype to visually represent and quantify these vulnerabilities. The implementation includes an automated test suite with over seven test cases for models like Gemma 3 and Llama 3.1, alongside a JSON database of mitigation strategies to help organizations secure their AI workflows. Led by a team of six Data Science students and supervised by experts from CSIRO’s Data61, the project aims to deliver actionable security insights and a functional risk assessment dashboard by October 2025.</div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<!--<center><img src="images/fb-food-trends.png"></center>-->
 <br>
 
 <!----
@@ -39,7 +39,7 @@ My complete implementation of assignments and projects in
 
 ## Data Engineering
 ### IOT web app
-[![Open Web App](https://salisall.github.io/RateCardProject/dashboard.html)]
+[![Open Web App](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://salisall.github.io/RateCardProject/dashboard.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/RateCardProject)
 
 <div style="text-align: justify">FROM start to end, I have integrate IOT technologies to detect troubleshooting purpose by centralizing big data integreate with the modeling deloy through platform. Finally, we maintain the stucture of big data and improving all business </div>
@@ -52,9 +52,9 @@ My complete implementation of assignments and projects in
 [![Open Web App](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://salisall.github.io/FeshMesh.github.io/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/FeshMesh.github.io)
 
-<div style="text-align: justify">AAn interactive web-based application that performs real-time facial landmark detection and hand tracking directly in the browser. The system uses computer vision and machine learning to map detailed facial features and hand movements, enabling gesture-based interaction and intelligent visual analysis.</div>
+<div style="text-align: justify">An interactive web-based application that performs real-time facial landmark detection and hand tracking directly in the browser. The system uses computer vision and machine learning to map detailed facial features and hand movements, enabling gesture-based interaction and intelligent visual analysis.</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<!--<center><img src="images/credit-risk-webapp.png"/></center>-->
 <br>
 
 ---
@@ -76,7 +76,7 @@ My complete implementation of assignments and projects in
 
 <div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<!--<center><img src="images/breast-cancer.png"/></center>-->
 <br>
 
 ---
@@ -86,7 +86,7 @@ My complete implementation of assignments and projects in
 
 <div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
 <br>
-<center><img src="images/bac2018.JPG"/></center>
+<!--<center><img src="images/bac2018.JPG"/></center>-->
 <br>
 
 ---
