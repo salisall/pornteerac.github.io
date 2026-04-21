@@ -8,17 +8,17 @@ My complete implementation of assignments and projects in
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/Classroom_alocation)
 
-**Neural formular structure :** An GNN system which for the target relationship,This AI-powered system optimizes student classroom assignments by modeling social and academic dynamics through Graph Neural Networks (GNN) and Reinforcement Learning (RL). By treating students as nodes in a social graph, the system captures complex relationships—such as friendships and conflicts—to create balanced learning environments that traditional clustering methods often miss. Built with a FastAPI and React stack, it features an interactive dashboard for visualizing student networks and allows for real-time manual adjustments, ultimately automating the creation of classrooms that are both academically diverse and socially supportive. ([GitHub](https://github.com/salisall/Classroom_alocation).
+**Neural formular structure :** An GNN system which for the target relationship,This AI-powered system optimizes student classroom assignments by modeling social and academic dynamics through Graph Neural Networks (GNN) and Reinforcement Learning (RL). By treating students as nodes in a social graph, the system captures complex relationships—such as friendships and conflicts—to create balanced learning environments that traditional clustering methods often miss. Built with a FastAPI and React stack, it features an interactive dashboard for visualizing student networks and allows for real-time manual adjustments, ultimately automating the creation of classrooms that are both academically diverse and socially supportive. ([GitHub](https://github.com/salisall/Classroom_alocation)).
 
-**Dependency Parsing:** A group allocation system base on GNN ([GitHub](https://github.com/salisall/Classroom_alocation).
+**Dependency Parsing:** A group allocation system base on GNN ([GitHub](https://github.com/salisall/Classroom_alocation)).
 
 <center><img src="images/nlp.png"/></center>
 
 ---
 ### Detect Ai by security auditor, LLM models
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/ai_security_auditor)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)]
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/ai_security_auditor)]
 
 <div style="text-align: justify">First I build This project investigates how psychological manipulation can be used to trigger prompt injection attacks in AI systems, filling a critical gap where no standardized risk framework currently exists. By utilizing an Agile and DevSecOpsmethodology, the team is developing a structured Risk Map and a Jupyter Notebook-based prototype to visually represent and quantify these vulnerabilities. The implementation includes an automated test suite with over seven test cases for models like Gemma 3 and Llama 3.1, alongside a JSON database of mitigation strategies to help organizations secure their AI workflows. Led by a team of six Data Science students and supervised by experts from CSIRO’s Data61, the project aims to deliver actionable security insights and a functional risk assessment dashboard by October 2025.</div>
 <br>
@@ -38,9 +38,9 @@ My complete implementation of assignments and projects in
 
 
 ## Data Engineering
-IOT web app
-[![Open Web App](https://salisall.github.io/RateCardProject/dashboard.html)
-[![View on GitHub](https://github.com/salisall/RateCardProject)
+### IOT web app
+[![Open Web App](https://salisall.github.io/RateCardProject/dashboard.html)]
+[![View on GitHub](https://github.com/salisall/RateCardProject)]
 <div style="text-align: justify">FROM start to end, I have integrate IOT technologies to detect troubleshooting purpose by centralizing big data integreate with the modeling deloy through platform. Finally, we maintain the stucture of big data and improving all business </div>
 
 ---
