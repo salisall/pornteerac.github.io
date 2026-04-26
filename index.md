@@ -21,7 +21,11 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/ai_security_auditor)
 
-<div style="text-align: justify">First I build This project investigates how psychological manipulation can be used to trigger prompt injection attacks in AI systems, filling a critical gap where no standardized risk framework currently exists. By utilizing an Agile and DevSecOpsmethodology, the team is developing a structured Risk Map and a Jupyter Notebook-based prototype to visually represent and quantify these vulnerabilities. The implementation includes an automated test suite with over seven test cases for models like Gemma 3 and Llama 3.1, alongside a JSON database of mitigation strategies to help organizations secure their AI workflows. Led by a team of six Data Science students and supervised by experts from CSIRO’s Data61, the project aims to deliver actionable security insights and a functional risk assessment dashboard by October 2025.</div>
+<div style="text-align: justify">First I build This project investigates how psychological manipulation can be used to trigger prompt injection attacks in AI systems, filling a critical gap where no standardized risk framework currently exists. 
+<p>By utilizing an Agile and DevSecOpsmethodology, the team is developing a structured Risk Map and a Jupyter Notebook-based prototype to visually represent and quantify these vulnerabilities. </p>
+<p>The implementation includes an automated test suite with over seven test cases for models</p>
+Gemma 3 and Llama 3.1, alongside a JSON database of mitigation strategies to help organizations secure their AI workflows. 
+<p>Driven by a team of six Data Science students and mentored by experts from CSIRO Data61, this project competition focuses on delivering actionable security insights and a fully functional risk assessment dashboard</p></div>
 <br>
 <!--<center><img src="images/fb-food-trends.png"></center>-->
 <br>
