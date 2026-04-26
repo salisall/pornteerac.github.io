@@ -85,14 +85,14 @@ Gemma 3 and Llama 3.1, alongside a JSON database of mitigation strategies to hel
 <br>
 
 ---
-### Business Analytics Conference shopee 2018: How is ecommerce campaign sell predictions
+<!--### Business Analytics Conference shopee 2018: How is ecommerce campaign sell predictions
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
 <div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
 <br>
-<!--<center><img src="images/bac2018.JPG"/></center>-->
-<br>
+<!--<center><img src="images/bac2018.JPG"/></center>
+<br> -->
 
 ---
 ## Contented by me
