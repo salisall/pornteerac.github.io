@@ -57,7 +57,8 @@ Gemma 3 and Llama 3.1, alongside a JSON database of mitigation strategies to hel
 [![Open Web App](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](https://salisall.github.io/FeshMesh.github.io/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/FeshMesh.github.io)
 
-<div style="text-align: justify">An interactive web-based application that performs real-time facial landmark detection and hand tracking directly in the browser. The system uses computer vision and machine learning to map detailed facial features and hand movements, enabling gesture-based interaction and intelligent visual analysis.</div>
+<div style="text-align: justify">An interactive web-based application that performs real-time facial landmark detection and hand tracking directly in the browser. 
+<p>The system uses computer vision and machine learning to map detailed facial features and hand movements, enabling gesture-based interaction and intelligent visual analysis.</p></div>
 <br>
 <center><img src="images/credit-risk-webapp.png"/></center>
 <br>
@@ -74,12 +75,13 @@ Gemma 3 and Llama 3.1, alongside a JSON database of mitigation strategies to hel
 <br>-->
 
 ---
-### Predict Athlethe Performance by utralytrics
+### Predict Athlete Performance by Ultralytics (Golf Analysis)
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
+<div style="text-align: justify">In this project I am going to perform a data-driven using techniques inspired by Ultralytics to analyze and predict golf performance. 
+<p>It leverages metrics like swing speed, launch angle, and shot consistency to model outcomes (e.g., accuracy and distance) and delivers insights through a performance dashboard for targeted improvement.</p></div>
 <br>
 <!--<center><img src="images/breast-cancer.png"/></center>-->
 <br>
