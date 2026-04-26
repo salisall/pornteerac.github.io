@@ -1,10 +1,7 @@
 # Portfolio
 ---
 ## Graph Neural Network
-
 ### Classrooms allocation with Deep Learning
-
-My complete implementation of assignments and projects in 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/salisall/Classroom_alocation)
 
